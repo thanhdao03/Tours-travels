@@ -43,8 +43,9 @@ const Footer = () => {
             <div className="logo">
               <img src={logo} alt="" />
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Commodi, enim.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero
+                neque animi doloribus cumque eveniet tempore maiores quas
+                perferendis eaque.
               </p>
               <div className="social__link d-flex align-items-center gap-4">
                 <span>
@@ -104,7 +105,7 @@ const Footer = () => {
                   </span>
                   Address:
                 </h6>
-                <p className="mb-0">Lorem</p>
+                <p className="mb-0">Ha Noi, Viet Nam</p>
               </ListGroupItem>
 
               <ListGroupItem className="ps-0 border-0 d-flex align-items-center gap-3">
@@ -115,7 +116,7 @@ const Footer = () => {
                   Email:
                 </h6>
 
-                <p className="mb-0">Lorem</p>
+                <p className="mb-0">thanhdao02dd@gmail.com</p>
               </ListGroupItem>
 
               <ListGroupItem className="ps-0 border-0 d-flex align-items-center gap-3">
@@ -126,7 +127,7 @@ const Footer = () => {
                   Phone:
                 </h6>
 
-                <p className="mb-0">Lorem</p>
+                <p className="mb-0">0979.022.810</p>
               </ListGroupItem>
             </ListGroup>
           </Col>

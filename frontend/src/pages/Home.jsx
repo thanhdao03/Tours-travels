@@ -33,10 +33,8 @@ const Home = () => {
                   <span className="hightlight"> memories</span>
                 </h1>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                  Ullam ipsum nobis asperiores soluta voluptas quas voluptates.
-                  Molestiae tempora dignissimos, animi praesentium molestias
-                  perferendis porro expedita delectus. Soluta natus porro.
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
+                  aliquam, hic tempora inventore suscipit unde.
                 </p>
               </div>
             </Col>
@@ -101,8 +99,8 @@ const Home = () => {
                   With our all experience <br /> we will serve you
                 </h2>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                  <br /> Quas aliquam, hic tempora inventore suscipit unde.{" "}
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  <br /> Dolores, eaque.
                 </p>
               </div>
 
